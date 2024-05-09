@@ -5,3 +5,5 @@ while (contador <=10) {
     contador++
 }
 console.log("FIM.");
+
+// +=2 conta em dois em dois
