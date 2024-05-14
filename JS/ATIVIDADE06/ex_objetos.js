@@ -10,4 +10,6 @@ let carro = {
     venda:true
 }
 
-console.log(carro);
+console.log(carro.marca);
+console.log(carro.modelo);
+console.log(carro.preço);
