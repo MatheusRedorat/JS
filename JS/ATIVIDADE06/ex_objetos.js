@@ -2,12 +2,12 @@ let carro = {
     marca: 'mercedes',
     modelo: 'Mercedes-Benz Classe E',
     preço:  639900,
-    estilo: {
+    geral: {
         Dimensões: "4.935 mm C x 1.852 mm L x 1.460 mm A",
         Potência: "258 HP",
         Motor: "2,0 l 4 cilindros em linha"
     },
-    vendido:true
+    venda:true
 }
 
 console.log(carro);
